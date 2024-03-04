@@ -53,6 +53,18 @@ class HomeView extends StatelessWidget {
                 color: blueShade,
               ),
             ),
+            SizedBox(
+              height: 10,
+            ),
+            Text(
+              '3. You are not allowed to change any of the existing widgets.',
+              textAlign: TextAlign.center,
+              style: TextStyle(
+                fontSize: 16,
+                fontWeight: FontWeight.w500,
+                color: blueShade,
+              ),
+            ),
           ],
         )));
   }
