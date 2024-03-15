@@ -25,9 +25,9 @@ Then, run the project to find the bugs.
 
 ## Guidelines
 - You are not allowed to make any changes to the `main.dart` file or `home.dart` .
-// teri
 
 ## Bugs
+
 
 ### Bug-1,2 :- 
 #### Page-1
