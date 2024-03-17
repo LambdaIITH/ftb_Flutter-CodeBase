@@ -35,6 +35,8 @@ Then, run the project to find the bugs.
 - The popup menus are not working as expected.
 - Note that the TimeSlot must be fetched from home page only.
 
+<b> Hint: How do you update the UI State? Try to change where can you fetch TimeSlot's initial value. </b>
+
 [*Expected Behaviour*](page1.mp4)
 
 ### Bug-3,4,5 :- 
@@ -43,6 +45,7 @@ Then, run the project to find the bugs.
 - There is a lot of extra space when the all notifications are not visible.(checkout expected behaviour)
 - Why are the clicks not working?
 
+<b> Hint: Where is the space even coming from? Why is it only in case of invisibility? </b>
 
 [*Expected Behaviour:*](page2.mp4)
 
@@ -51,6 +54,7 @@ Then, run the project to find the bugs.
 
 The page navigation is not working as expected. Pressing the back button should take the user to the home page where a back press should exit the app.
 
+<b> Hint: Have you worked with stacks before? </b>
 
 [*Expected Behaviour:*](page3.mp4)
 
