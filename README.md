@@ -1,6 +1,6 @@
 # Flutter_bugs
 
-Flutter bugs made with ♥ by Lambda
+Flutter bugs made with ♥ by Snoop Dogg when at Lambda
 
 ## Installation
 
