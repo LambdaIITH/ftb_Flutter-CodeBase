@@ -32,14 +32,17 @@ Then, run the project to find the bugs.
 ### Bug-1,2 :- 
 #### Page-1
 
-The popup menus are not working as expected.
+- The popup menus are not working as expected.
+- Note that the value of timeSlot must be fetched only from HomePage and not from the local variable.
 
 [*Expected Behaviour*](page1.mp4)
 
 ### Bug-3,4,5 :- 
 #### Page-2
 
-There is a lot of extra space and why are the clicks not working?
+- There is a lot of extra space when the all notifications are not visible.(checkout expected behaviour)
+- Why are the clicks not working?
+
 
 [*Expected Behaviour:*](page2.mp4)
 
