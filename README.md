@@ -33,7 +33,7 @@ Then, run the project to find the bugs.
 #### Page-1
 
 - The popup menus are not working as expected.
-- Note that the value of timeSlot must be fetched only from HomePage and not from the local variable.
+- Note that the TimeSlot must be fetched from home page only.
 
 [*Expected Behaviour*](page1.mp4)
 
